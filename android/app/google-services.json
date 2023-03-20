@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "610015740073",
+    "project_id": "ouat-flutter",
+    "storage_bucket": "ouat-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610015740073:android:37c190a9c408b64da229b8",
+        "android_client_info": {
+          "package_name": "com.example.smart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610015740073-h712jcj80970dftjm4g1e4ka7aav2bs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart",
+            "certificate_hash": "7b1c0c4058e276977b30650e7264321bd514dfa7"
+          }
+        },
+        {
+          "client_id": "610015740073-fgm3un39bejqp4iptereok3vs0ut6qr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3ypWcQzPMiJqY0bC7S30oggDW8ZVivo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610015740073-fgm3un39bejqp4iptereok3vs0ut6qr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610015740073-djg0q1a8t3u89m9ks33gjdfj3latk4na.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.taggd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610015740073:android:832acca514450f4da229b8",
+        "android_client_info": {
+          "package_name": "com.ouat.taggd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610015740073-gdcevo5vn4a6hjt8it00mli4p41djeiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ouat.taggd",
+            "certificate_hash": "7b1c0c4058e276977b30650e7264321bd514dfa7"
+          }
+        },
+        {
+          "client_id": "610015740073-fgm3un39bejqp4iptereok3vs0ut6qr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3ypWcQzPMiJqY0bC7S30oggDW8ZVivo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610015740073-fgm3un39bejqp4iptereok3vs0ut6qr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610015740073-djg0q1a8t3u89m9ks33gjdfj3latk4na.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.taggd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610015740073:android:e3a29c390725e907a229b8",
+        "android_client_info": {
+          "package_name": "com.taggd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610015740073-l8n0ooiq7ev579u3b5vb94qop9ca607e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taggd",
+            "certificate_hash": "7b1c0c4058e276977b30650e7264321bd514dfa7"
+          }
+        },
+        {
+          "client_id": "610015740073-fgm3un39bejqp4iptereok3vs0ut6qr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3ypWcQzPMiJqY0bC7S30oggDW8ZVivo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610015740073-fgm3un39bejqp4iptereok3vs0ut6qr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610015740073-djg0q1a8t3u89m9ks33gjdfj3latk4na.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.taggd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
